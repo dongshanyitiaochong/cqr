@@ -22,7 +22,7 @@ GM_addStyle(study_css);
 GM_addStyle(create_new_car_css);
 GM_addStyle(study_pop_css);
 
-//获取当前日期
+//获取当前日期a 
 var currDate = new Date().toISOString().split('T')[0];
 
 var JsonReturns = [];
