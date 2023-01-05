@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         汽车街助手
 // @namespace    http://tampermonkey.net/
-// @version      20221214
+// @version      20221215
 // @description  汽车街助手杂项，想干啥就干啥
 // @author       qingri.cong
 // @match        http://*.autostreets.com/*
