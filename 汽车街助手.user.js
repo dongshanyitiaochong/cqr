@@ -21,6 +21,7 @@ var study_pop_css = "*{ margin: 0; padding: 0; }.popup-wrap{ position: fixed; to
 GM_addStyle(study_css);
 GM_addStyle(create_new_car_css);
 GM_addStyle(study_pop_css);
+
 //获取当前日期
 var currDate = new Date().toISOString().split('T')[0];
 
