@@ -40,6 +40,7 @@ function closeWin() {
 }
 
 $(document).ready(async function () {
+    let a = "a";
    let url = window.location.href;
     let url_splits = url.split('/');
     //进入http://*.autostreets.com/* 页面即做一次请求，如果DB中有相关配置，则自动生成组件
